@@ -1,3 +1,5 @@
-# A repository containing the software aspect of our Masters dissertation project.
+# Patrol Mole
+
+## A repository containing the software aspect of our Masters dissertation project.
 
 The src folder has the ROS2 packages for Patrol Mole.
